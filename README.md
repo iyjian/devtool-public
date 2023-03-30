@@ -1,0 +1,1 @@
+docker-compose exec devtool-api npx ts-node dist/scripts/seed.js
